@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @xaviernogueira, I’m an water resources and environmental scientist who has worked extensively in both geospatial and data science contexts. 
-- 📫 How to reach me: xavier.rojas.nogueira@gmail.com
+👋 Hi, I’m Xavier Nogueira! I’m an water resources/environmental data scientist. I'm interested in adding value to the world at the nexus of technology and natural resources stewardship. 
+📫 How to reach me: xavier.rojas.nogueira@gmail.com.
 
 <!---
 xaviernogueira/xaviernogueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
