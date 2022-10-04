@@ -1,4 +1,5 @@
-👋 Hi, I’m Xavier Nogueira! I’m an water resources/environmental data scientist. I'm interested in adding value to the world at the nexus of technology and natural resources stewardship. 
+⛈ Hi, I’m Xavier Nogueira! I’m an water resources/environmental data scientist. I'm interested in adding value to the world at the nexus of technology and natural resources stewardship. 
+
 📫 How to reach me: xavier.rojas.nogueira@gmail.com.
 
 <!---
