@@ -18,7 +18,7 @@
 
 🚀 `GCS-Analysis-Tools` - A Python executable Graphic User Interface (GUI) enabling a complete Geomorphic Covariance Structure analysis (GCS). This project was my main deliverable during my time working as a graduate reasearch assistant for the [Pasternack Lab @ UC Davis](http://pasternack.ucdavis.edu/research). GCS analysis may seem complicated at first, but is an incredibly powerful tool for understanding fluvial morphodynamics, with relevance for river restoration design as well as Environmental Flow (E-Flow) prescription. For more information on the GUI please reference the [repo](https://github.com/xaviernogueira/gcs_gui) or my [documentation site](https://gcs-gui-documentation.readthedocs.io/en/latest/#). For more information of GCS analysis, please reference my [MS thesis paper](https://escholarship.org/uc/item/5mm3q087).
 
-Much of my work has unfortunoutly been private! However, within reason, I would love to dicuss the projects contributed to.
+Much of my work has unfortunoutly been private! However, within reason, I would be happy to dicuss some of the other projects I've contributed to. Dont' be a stranger! Feel free to reach out.
 
 📫 How to reach me: xavier.rojas.nogueira@gmail.com.
 
