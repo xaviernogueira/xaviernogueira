@@ -9,7 +9,6 @@
 ⏳ `value_investing_tools` - A python toolset for the modern value investor! This is a pet project of mine, but one I am quite proud of. *Release is expected in Winter 2023*. The toolset enables: 
  * **Rapid, flexible, and complete (no year limit!) data retrival** for a wide variety of financial metrics as `Stock` attributes (i.e. `Stock.earnings`) without sacrificing backdore access to complete balance sheets, cash flow statements, and income statements as pandas DataFrames (via `Stock.export_full_data()`).
  * **Interactive plotting in Jupyter Lab** with native [`plotly-express`](https://plotly.com/python/plotly-express/) functions.
- * **Publication-ready static plotting** power by [`seaborn`](https://seaborn.pydata.org/api.html).
  * **Scalability via "lazy" computation** - financial metric are only calculated when called upon. This allows for rapid initialization of `Stock` objects, allowing you to quickly build a list/portfolio of ticker symbols (maximum = 50 without a premium API key) with minimal computational overhead.
  * **Discounted Cash Flow (DCF)** valuation analyses using `ValueInvestingTools.DCF()`, as well as a variety of DCF visualizations.
  * **Calculate relevant statistics**, transform time-series data using rolling windows, and more!
