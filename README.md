@@ -1,7 +1,7 @@
 ⛈ Hi, I’m Xavier Nogueira! I’m a data scientist/developer interested in adding value to the world at the nexus of technology and environmental science. I also dabble in quantitative finance. 
 
 -----------------------
-**My Projects**
+**My Public Projects**
 
 ⏳ [`Xarray-DataAccessor`](https://github.com/LimnoTech/Xarray-DataAccessor) - Working for [LimnoTech](https://www.limno.com/) I was tasked with creating a Python library that faciliates rapid read-in of remote climate, topographic, land cover, and soils data into standardized `xarray.Dataset` objects. The library was built using a [factory architecture pattern](https://en.wikipedia.org/wiki/Factory_method_pattern) in order to create a unified "user interface" that abstracts dataset provider specific details as well as to encourage open-source contributions/plugins. `Xarray-DataAccessor` also enables a variety of data transformations and utility functions to meet a variety of hydrologic modelling need. This library is still a work in progress...more features are planned!
 
