@@ -3,7 +3,7 @@
 -----------------------
 **My Public Projects**
 
-🚀 [`Catalog-To-Xpublish`](https://github.com/LimnoTech/Catalog-To-Xpublish) - a server-side software designed to spin-up a [`fastapi`](https://fastapi.tiangolo.com/lo/) API from an [`intake`](https://intake.readthedocs.io/en/latest/catalog.html) catalog or [STAC](https://stacspec.org/en). This allows all cataloged Zarr or NetCDF datasets to be served up efficiently, whether they're stored in the cloud or locally. What's more, the API can be easily extended with any of the growing number of [`xpublish`](https://github.com/xpublish-community/xpublish) plugins that are available.
+🚀 [`Catalog-To-Xpublish`](https://github.com/xpublish-experiments/Catalog-To-Xpublish) - a server-side software designed to spin-up a [`fastapi`](https://fastapi.tiangolo.com/lo/) API from an [`intake`](https://intake.readthedocs.io/en/latest/catalog.html) catalog or [STAC](https://stacspec.org/en). This allows all cataloged Zarr or NetCDF datasets to be served up efficiently, whether they're stored in the cloud or locally. What's more, the API can be easily extended with any of the growing number of [`xpublish`](https://github.com/xpublish-community/xpublish) plugins that are available.
 
 🚀 [`Tabular_ML`](https://github.com/xaviernogueira/Tabular_ML) - A Python library containing some of my personal machine learning tools that I've packaged and open sourced. The library `tabular_ml` allows one to train, evaluate, ensemble, and optimize hyperparameters from a standardized interface. I implemented a "factory" design pattern to allow one to write simple plug-ins to include more models or alter behavior.
 
