@@ -15,7 +15,7 @@
 
 🚀 [`Xarray-DataAccessor`](https://github.com/LimnoTech/Xarray-DataAccessor) - Read-in gridded climate, topographic, land cover, and soils data into standardized `xarray.Dataset` objects. `Xarray-DataAccessor` includes a range of data transformations and utility functions that meet various hydrologic modeling requirements.
 
-⏳ `value_investing_tools` - A Python toolset for the modern value investor! This is a pet project of mine that arose out of tools I've written for myself. *Release is expected in early 2023*.
+⏳ `value_investing_tools` - A Python toolset for the modern value investor! This is a pet project of mine that arose out of tools I've written for myself. *Work in progress*.
 
 🚀 [`GCS-Analysis-Tools`](https://github.com/xaviernogueira/GCS-Analysis-Tools) - A Graphic User Interface (GUI) enabling a complete Geomorphic Covariance Structure analysis (GCS). This project was a deliverable from time working as a graduate reasearch assistant for the [Pasternack Lab @ UC Davis](http://pasternack.ucdavis.edu/research)..
 
