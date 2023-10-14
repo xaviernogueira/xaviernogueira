@@ -3,7 +3,7 @@
 -----------------------
 **My Public Projects**
 
-⏳ [`Clearwater-modules`](https://github.com/EcohydrologyTeam/ClearWater-modules) - A `xarray` based implementation of water quality and vegetation process simulation modules being developed with the [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil), [Environmental Laboratory (EL)](https://www.erdc.usace.army.mil/Locations/EL/)
+⏳ [`Clearwater-modules`](https://github.com/EcohydrologyTeam/ClearWater-modules) - A `xarray` based implementation of water quality and vegetation process simulation modules being developed with the [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil), [Environmental Laboratory (EL)].(https://www.erdc.usace.army.mil/Locations/EL/)
 
 🚀 [`Catalog-To-Xpublish`](https://github.com/xpublish-experiments/Catalog-To-Xpublish) - spin up a [`fastapi`](https://fastapi.tiangolo.com/lo/) API from an [`intake`](https://intake.readthedocs.io/en/latest/catalog.html) catalog or [STAC](https://stacspec.org/en). Efficiently serve up all cataloged Zarr or NetCDF datasets, whether they're stored in the cloud or locally, via [`xpublish`](https://github.com/xpublish-community/xpublish).
 
