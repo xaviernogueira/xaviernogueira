@@ -1,4 +1,6 @@
-⛈ Hi, I’m Xavier Nogueira! I’m a data scientist/developer interested in adding value to the world at the nexus of technology and environmental science. I also dabble in quantitative finance. 
+⛈ Hi, I’m Xavier Nogueira! I’m a data scientist/developer interested in adding value to the world at the nexus of technology and environmental science. I also dabble in quantitative finance.
+
+Core maintainer @ [`xpublish-community`](https://github.com/xpublish-community).
 
 -----------------------
 **My Public Projects**
