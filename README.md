@@ -1,4 +1,4 @@
-⛈ Hi, I’m Xavier Nogueira! I’m a data scientist / engineer passionate about advancing the world of geospatial data, especially as it related to the Earth sciences. I also dabble in quantitative finance.
+⛈ Hi, I’m Xavier Nogueira! I’m a data scientist / engineer passionate about advancing the world of geospatial data, especially as it relates to the Earth sciences. I also dabble in quantitative finance.
 
 # My Public Projects
 | Project                  | Role   | Organization | Description          
