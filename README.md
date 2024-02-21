@@ -24,12 +24,7 @@
 [GCS-Analysis-Tools]: https://github.com/xaviernogueira/GCS-Analysis-Tools
 [xpublish-opendap]: https://github.com/xpublish-community/xpublish-opendap
 [xpublish]: https://github.com/xpublish-community/xpublish
-[NO2-Modelling]: https://github.com/xaviernogueira/gwu_air_quality
-
-
-# Coming soon...
-⏳ `geoparquet-pydantic` - A lightweight library for validating GeoParquet files and converting between GeoJSON and GeoParquet...without GDAL!  
-⏳ `value_investing_tools` - A Python toolset for the modern value investor! This is a pet project of mine that arose out of tools I've written for myself. 
+[NO2-Modelling]: https://github.com/xaviernogueira/gwu_air_quality 
 
 📫 How to reach me: xavier.rojas.nogueira@gmail.com.
 
